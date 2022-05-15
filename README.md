@@ -4,8 +4,8 @@ The components used in thiis inverter are-
 /1-MDF board
 /1-(12-0-2/2A)Transformer(Type-StepDown)
 /2-Transistor
-/2-Resistor(330 ohm)
-/3-(3.75v)Battery
+/2-Resistor(330 ohm (each))
+/3-(3.75v (each))Battery
 /1-DC connector
 /1-(FR306) DIODE
 /LED Light
