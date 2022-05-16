@@ -9,5 +9,5 @@ The components used in thiis inverter are-
 /1-DC connector
 /1-(FR306) DIODE
 /LED Light
-/1-(470v)Resistor
+/1-(470 ohm)Resistor
 /12v Charger(To charge the battery)
